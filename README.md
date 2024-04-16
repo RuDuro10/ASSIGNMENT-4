@@ -9,17 +9,16 @@ An aspiring software engineer who is currently completeing the CFG degree. This 
 ## Creating a branch
 ![printscreen of creating a branch](https://github.com/RuDuro10/ASSIGNMENT-4/blob/main/Creating%20Branch.png?raw=true)
 ## Adding files to a branch
-![Printscreen of adding files to branch](i https://github.com/RuDuro10/ASSIGNMENT-4/blob/main/Adding files to branch.png?raw=true l)
+![Printscreen of adding files to branch](https://github.com/RuDuro10/ASSIGNMENT-4/blob/main/Adding%20files%20to%20branch.png?raw=true)
 
 ## Adding commits with meaningful messages
-![Printscreen of adding commits with message](https://github.com/RuDuro10/ASSIGNMENT-4/blob/main/Adding Commit with meaningful message.png?raw=true)
+![Printscreen of adding commits with message](https://github.com/RuDuro10/ASSIGNMENT-4/blob/main/Adding%20Commit%20with%20meaningful%20message.png?raw=true)
 
 ## Opening a pull request
-![Printscreen of opening a pull request](https://github.com/RuDuro10/ASSIGNMENT-4/blob/main/Creating Pull Request.png?raw=true)
+![Printscreen of opening a pull request](https://github.com/RuDuro10/ASSIGNMENT-4/blob/main/Creating%20Pull%20Request.png?raw=true)
 
 ## Merging and deploying to main branch
-![Printscreen of merging and deployong to main branch](https://github.com/RuDuro10/ASSIGNMENT-4/blob/main/Merging to Main Branch.png?raw=true)
-
+![Printscreen of merging and deployong to main branch](https://github.com/RuDuro10/ASSIGNMENT-4/blob/main/Merging%20to%20Main%20Branch.png?raw=true)
 
 
 # The Purpose of a .gitignore file 
