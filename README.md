@@ -10,3 +10,24 @@ An aspiring software engineer who is currently completeing the CFG degree. This 
 ## Adding commits with meaningful messages
 ## Opening a pull request
 ## Merging and deploying to main branch
+
+# The Purpose of a .gitignore file 
+
+A ***.gitignore*** file is a text file used in Git to specify files and directories that should be ignored by version control. 
+It helps keep your repository clean and focused by excluding files like temporary files, compiled binaries, 
+and sensitive configuration files from being tracked. By preventing unnecessary changes and clutter in your commit history,
+it improves collaboration and ensures consistency across team members. Additionally, it enhances security by protecting sensitive 
+information such as API keys and credentials from being accidentally committed and shared publicly. 
+
+# The Purpose of a requirements.txt file
+A ***requirements.txt*** file specifies the dependencies needed for a project to run. It helps streamline setup for developers by listing required libraries and their versions, ensuring consistency across team members. This file serves as documentation for project dependencies, making it easier to understand and replicate the project environment.
+
+<sub> This is an example of subscript </sub>
+~~ This is an an example of strikethrough. ~~
+
+
+
+
+
+
+
