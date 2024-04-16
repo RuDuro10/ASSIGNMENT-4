@@ -23,7 +23,7 @@ information such as API keys and credentials from being accidentally committed a
 A ***requirements.txt*** file specifies the dependencies needed for a project to run. It helps streamline setup for developers by listing required libraries and their versions, ensuring consistency across team members. This file serves as documentation for project dependencies, making it easier to understand and replicate the project environment.
 
 <sub> This is an example of subscript </sub>
-~~ This is an an example of strikethrough. ~~
+~~This is an an example of strikethrough.~~
 
 
 
