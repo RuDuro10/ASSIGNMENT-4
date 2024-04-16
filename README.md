@@ -5,6 +5,7 @@ Assignment 4 submission from Ruth Muleya (_RuDuro10_)
 An aspiring software engineer who is currently completeing the CFG degree. This assignment will track the changes of the building of a **_fitness class API_**. The GitHub account that will be working on Assignment4 is _RuDuro10_. 
 
 ## Checking the status
+![printscreen of checking status](https://github.com/RuDuro10/ASSIGNMENT-4/blob/main/Checking%20Status.png?raw=true)
 ## Creating a branch
 ## Adding files to a branch
 ## Adding commits with meaningful messages
